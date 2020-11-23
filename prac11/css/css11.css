@@ -1,0 +1,57 @@
+.body{
+    background-color: black;
+    padding-top: 2em;
+}
+.principal{
+
+    background-color:skyblue;
+    max-width: 80%;
+    min-height: 500px;
+    margin: auto;
+    padding-top: 10px; 
+    align-content: center;
+    
+
+}
+
+.menu{
+    text-decoration: none;
+    background-color: #c0c0c0;
+    align-content: center;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu ul, .menu li,.font-weight-bold {
+list-style: none;
+float: left;
+padding-left: 6em;
+color: yellow;
+align-content: center;
+}
+
+.menu li a{
+    color: white;
+}
+
+.menu li a:hover{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    background-color: cornflowerblue;
+}
+
+.lor{
+
+    align-content: center;
+    float: center;
+   
+    color:navy;
+}
+
+
+
+
+}
